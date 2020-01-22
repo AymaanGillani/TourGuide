@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailsFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+           <androidx.viewpager.widget.ViewPager
+               android:id="@+id/imgPager"
+               android:layout_width="wrap_content"
+               android:layout_height="@dimen/layout_img_height">
+
+           </androidx.viewpager.widget.ViewPager>
+            <LinearLayout
+                android:id="@+id/playPauseContainer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/indicator"
+                android:layout_centerHorizontal="true">
+            <ImageView
+                android:id="@+id/playImg"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/play1"
+                android:background="?android:attr/selectableItemBackground"/>
+
+            <ImageView
+                android:id="@+id/pauseImg"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:scaleType="fitXY"
+                android:background="?android:attr/selectableItemBackground"
+                android:src="@drawable/pause" />
+            </LinearLayout>
+
+            <com.viewpagerindicator.CirclePageIndicator
+                android:id="@+id/indicator"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                android:padding="10dip"
+                app:centered="true"
+                app:fillColor="#ff0099"
+                app:pageColor="#FF0000"
+                app:snap="false"
+                android:layout_below="@id/imgPager"/>
+
+            <TextView
+                android:id="@+id/details"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="16dp"
+                android:text="TextView"
+                android:textSize="18sp"
+                android:layout_below="@id/playPauseContainer"/>
+        </RelativeLayout>
+
+    </ScrollView>
+
+</FrameLayout>

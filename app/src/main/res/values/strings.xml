@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="google_android_map_api_key">AIzaSyBbNf76F-53Q_fS2iLiIYKK2Vc6mMhffiM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="title1">Charminar</string>
+    <!--    <string name="title2"></string>-->
+    <!--    <string name="title3"></string>-->
+    <!--    <string name="title4"></string>-->
+    <!--    <string name="title5"></string>-->
+    <string name="lat1">17.361633</string>
+    <string name="lng1">78.474659</string>
+    <string name="lat2">17.3833</string>
+    <string name="lng2">78.4011</string>
+    <string name="lat3">17.2543</string>
+    <string name="lng3">78.6808</string>
+    <string name="lat4">17.4239</string>
+    <string name="lng4">78.4738</string>
+    <string name="lat5">17.4062</string>
+    <string name="lng5">78.4691</string>
+    <string name="lat6">17.3578</string>
+    <string name="lng6">78.4717</string>
+    <string name="lat7">17.3950</string>
+    <string name="lng7">78.3968</string>
+    <string name="lat8">17.3507</string>
+    <string name="lng8">78.4513</string>
+    <string name="lat9">17.3713</string>
+    <string name="lng9">78.4804</string>
+    <string name="lat10">17.3313</string>
+    <string name="lng10">78.4662</string>
+    <string name="lat11">﻿17.420635</string>
+    <string name="lng11">78.41927</string>
+
+
+    <string name="details1"><![CDATA[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <b><u>Charminar</u></b> ("four minarates"), constructed in 1591, is a monument
+        and mosque located in Hyderabad, Telangana, India. It is the most famous building of
+        Hyderabad and also one of the most famous buildings in India. It was built by Muhammad Quli Qutb Shahi to celebrate
+        the end of a deadly plague The landmark has become known globally as a symbol of Hyderabad and
+        is listed among the most recognized structures in India. The Charminar\'s long history includes the existence of a mosque
+        on its top floor for more than 400 years. While both historically and religiously significant, it is also known for the
+        popular and busy local markets surrounding the structure, and has become one of the most frequented tourist attractions in
+        Hyderabad. Charminar is also a site of numerous festival celebrations, such as Eid-ul-adha and Eid-ul-fitr.<br/><br/>
+        \t\t  The Charminar is situated on the east bank of Musi river. To the west lies the Laad Bazaar, and to the southwest lies
+        the richly ornamented granite Makkah Masjid. It is listed as an archaeological and architectural treasure on
+        the official "List of Monuments" prepared by the Archaeological Survey of India. The English name is a translation
+        and combination of the Urdu words chār and minar or meenar, translating to "Four Pillars"; the eponymous towers are
+        ornate minarets attached and supported by four grand arches.]]></string>
+
+
+    <string name="details2"><![CDATA[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Golconda Fort, also known as Golkonda ("round hill") or Golla Konda ("Shepherd's Hill"
+        in Telugu), is a fortified citadel and an early capital city of the Qutb Shahi dynasty (c.1512–1687), located in Hyderabad,
+        Telangana, India. Because of the vicinity of diamond mines, especially Kollur Mine, Golconda flourished as a trade centre of
+        large diamonds, known as the Golconda Diamonds. The region has produced some of the world\'s most famous diamonds, including
+        the colorless Koh-i-Noor (now owned by the United Kingdom), the blue Hope (United States), the pink Daria-i-Noor (Iran), the
+        white Regent (France), the Dresden Green (Germany), and the colorless Orlov (Russia), Nizam and Jacob (India), as well as
+        the now lost diamonds Florentine Yellow, Akbar Shah and Great Mogul. <br/><br/>
+        <b>Many famed diamonds are believed to have been excavated from the mines of Golconda, such as:</b>
+        <br/>\u25C6 Daria-i-Noor
+        <br/>\u25C6 Noor-ul-Ain
+        <br/>\u25C6 Koh-i-Noor
+        <br/>\u25C6 Hope Diamond
+        <br/>\u25C6 Princie Diamond
+        <br/>\u25C6 Regent Diamond
+        <br/>\u25C6 Wittelsbach-Graff Diamond<br/>]]>
+    </string>
+
+
+    <string name="details3">
+        <![CDATA[ The Ramoji Film City  located in Hyderabad, spread over 1666 acres is the largest integrated film city in
+        Telangana and has been certified by the Guinness World Records as the largest studio complex in the world.It was built by
+        Telugu film producer Ramoji Rao in 1996.\n\n
+        \t\t The film city is the brainchild of film producer Ramoji Rao, who wanted to build a studio similar to the ones in Hollywood.
+        On procuring the land, he signed art director Nitish Roy to design the complex. According to an executive, the builders kept the land,
+        which at that time consisted of jungles and mountainous terrain, intact, without removing one tree or mountain.\n\n
+        \t\t The studio has a central kitchen for the various film units shooting at any given point in time.
+        People can visit the film sets, theme parks, amusement rides, etc.The film city also has two hotels inside it,
+        47 sound stages and permanent sets ranging from railway stations to temples.<br/><br/>
+        \t\t The film city has countless number of attractions including amusement rides and fancy hotels..
+        There also special packages for parents with kids and also for couples on their honeymoon.
+        The tourists can visit different types of sets and shows that are used for making blockbuster films.\n\n
+        \t\t Thus Ramoji film city welcomes visitors of all ages and genders and make a guarantee to make them have a fantastic time.]]>
+    </string>
+
+
+    <string name="details4">
+        <![CDATA[Hussain Sagar is a heart-shaped lake in Hyderabad built by Ibrahim Quli Qutb Shah in 1563. It is spread across an area
+        of 5.7 square kilometers and is fed by the River Musi. A large monolithic statue of the Gautama Buddha, erected in 1992, stands on
+        Gibraltar Rock in the middle of the lake. It also separates the city centre of Hyderabad from its neighborhood Secunderabad.\n\n
+        &nbsp &nbsp &nbsp &nbsp Having been bordered by Indira Park in the east, Sanjeevaiah Park in the north and Lumbini Park in the south, the lake presents a
+        setting quite rare to find in the middle of any city. There is also a bund on its banks, which was built to control the flow of water.
+        This artificial lake now beautifies the city gracefully. Not just for beauty, it is also known for its historical connection. On the banks
+        of this Hussain Sagar Lake the treaty between Mughals and Golconda was signed.<br/><br/>
+        \t\t At the middle of the lake, you will find a huge statue of standing Lord Buddha which has height of 16 m and weighs almost 350 tonnes.
+        Made up of white granite, the statue is on the ‘Rock of Gibraltar’. The lighting show at the statue is something that is worth watching.
+        Along with this,there are almost 30 statues of various famous personalities around the lake as well.\n\n
+        \t\t As such, the Hussain sagar is currently battling against the threat of pollution from the city. The clear waters have started to become
+        murky with a green hue of pollution.There isn\'t as many flora and fauna in the lake as before, if any. The government is currently taking steps to
+        prevent further pollution but is meeting with resistance.]]>
+    </string>
+
+    <string name="details5">
+        <![CDATA[<b><u>Birla Mandir:  </u></b>Birla Mandir is a Hindu temple, built on a 280 feet high hillock called Naubath Pahad on a 13 acres plot.
+        The construction took 10 years and was opened in 1976 by Swami Ranganathananda of Ramakrishna Mission.
+        The temple was constructed by Birla Foundation, which has also constructed several similar temples across India, all of which are known as Birla Mandir.
+        You can visit the temple at anytime. In mornings, fresh breeze, tranquil environment and chirping of birds greet you as you seek blessing of the Gods.
+        While in night it is illuminated, creating a site that is worth appreciating. One can visit the Birla mandir from 6 am to 12 noon and in evening from 2 pm to 9 pm.<br/><br/>
+        <b><u>Birla Science Museum:  </u></b>Known for transferring scientific knowledge among everyone, Birla Science Museum has been educating people since many years now.
+        The best part about this science museum is the fact that that this dissemination of information is done in an interactive way.
+        Second phase of B.M. Birla Science Centre this museum was opened in 1990. Nothing less than a heaven for those with special interest in science,
+        this museum makes learning a fun filled process. Birla Science Museum has various sections, each section presenting an amazing set of exhibits,
+        each dedicated to a specialised field. These are Interactive Science Section, Archaeology and dolls museum, Nobel Gallery, Antarctica Diorama,
+        NRSA, Dvaraka Diorama, IEEE and Dinosaurium.<br/><br/>
+        <b><u>Birla Planetarium:  </u></b>Birla Planetarium is one of the most modern planetariums of the country.
+        Not just children, this is one of the popular Hyderabad sightseeing places that attracts everyone.
+        It was inaugurated in the year of 1985 by the late Sri N.T.Rama Rao. This planetarium is the first phase of the Birla Science centre in Hyderabad
+        This dome shaped structure was developed with the technological help from Japan. This place present its visitors with latest information about
+        Universe and about various invention and theories related to it.
+        The Sky show is the most attractive feature of the Planetarium. The sky show at Birla Planetarium Hyderabad has a unique feature with which very less
+        number of people are familiar. Each year, it presents its visitors with a different sky show, based on different scientific approach/theory.<br/>]]>
+    </string>
+
+    <string name="details6">
+        <![CDATA[&nbsp Chowmahalla Palace or Chowmahallat ("four palaces") is the palace of the Nizams of Hyderabad State in Hyderabad, Telangana, India.
+        It was the seat of the Asaf Jahi dynasty and was the official residence of the Nizams of Hyderabad while they ruled their state.
+        The palace was built by Nizam Salabat Jung.The palace remains the property of Barkat Ali Khan Mukarram Jah, heir of the Nizams.
+        Other members of the Hyderabadi Nizam family have also wed here.<br/><br/>
+        The palace was restored by the Government and was opened to the public in the year of 2005.
+        One can visit the palace throughout the week except on Friday and national holidays.
+        <b>Some key things to see at the palace are:</b>
+        <br/>\u25CF Beautiful spread of lawn, its green landscape contrasting the yellow and white motifs of the palace presents a hypnotic sight.
+        <br/>\u25CF A huge water fountain in front of the palace, with artistically carved pillars is the first thing to offer a peek into the architectural excellence of this Chowmahalla palace.
+        <br/>\u25CF Intricate carvings on the walls and ceilings of the palace are also worth noticing. Glass chandeliers with different designs in each Mahal are also not to be missed.
+        <br/>\u25CF Various galleries in the Palace with each presenting an interesting display of crockery, clothes, furniture, coins and currency notes, pictures from the Nizam era, etc. are sure to keep you engaged. Display of weapons has been especially done in an interesting manner; these are displayed not just inside glass cabinet but on the walls as well, reaching till the top.
+        <br/>\u25CF Quran section showcasing Qurans of various kinds such as hand written Quran which has been restored by using Japanese technique, Naskh script, miniature Qurans printed in metal, some which have been inscribed in gold and many others.
+        <br/>\u25CF Vintage car and Buggee display is another major attraction of Chowmahalla Palace. A fish motif on a poll, which was gifted by Mughals, is also going to catch your attention.
+        <br/>\u25CF Another part of the Chowmahalla Palace that draws one’s attention is the Afzal Mahal. Entry to this part of the palace is not allowed. However, there are glass windows and a door through which visitors can see it inside. The hall of the palace which has been maintained as it is, shows us luxuriousness of Nizams lifestyle.
+        <br/><br/>Visit <a href="https://www.hyderabadtourism.travel/chowmahalla-palace-hyderabad">Hyderabad Tourism</a> for more information.
+        ]]>
+    </string>
+</resources>
